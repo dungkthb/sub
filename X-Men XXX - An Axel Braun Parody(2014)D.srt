@@ -1,0 +1,254 @@
+﻿1
+00:00:00,200 --> 00:00:00,999
+
+
+2
+00:00:05,100 --> 00:00:06,400
+Jean, có chuyện gì vậy?
+
+3
+00:00:07,100 --> 00:00:11,020
+Không có gì ngoài Logan.
+
+4
+00:00:59,720 --> 00:01:01,680
+Xin chào đồng chí.
+
+5
+00:01:02,680 --> 00:01:04,820
+Kitty, cô đang làm gì trong phòng của tôi vậy?
+
+6
+00:01:04,820 --> 00:01:06,820
+Tôi đi qua các bức tường.
+
+7
+00:01:06,820 --> 00:01:09,540
+Tôi dành nhiều thời gian ở những nơi mà tôi không nên ở.
+
+8
+00:01:09,540 --> 00:01:12,400
+Kitty, cô phải đi.
+Làm ơn, rời khỏi phòng của tôi.
+
+9
+00:01:22,520 --> 00:01:23,780
+Peter?
+
+10
+00:01:23,780 --> 00:01:25,780
+Chúng ta sẽ đi vào một sứ mệnh.
+
+11
+00:01:25,780 --> 00:01:29,720
+Để cứu cô gái này, chúng tôi sẽ đối mặt
+với những kẻ đột nhập nguy hiểm nhất Trái Đất.
+
+12
+00:01:29,720 --> 00:01:34,580
+Và nếu chúng ta không trở lại, tôi không muốn hối hận
+rằng tôi chưa bao giờ nói với anh cảm giác của tôi về anh như thế nào.
+
+13
+00:01:36,040 --> 00:01:37,740
+Đóng cửa lại!
+
+14
+00:01:37,740 --> 00:01:39,440
+Đừng nói gì cả.
+
+23
+00:24:42,640 --> 00:24:44,900
+Ở trường họ nói về bạn
+
+24
+00:24:44,900 --> 00:24:46,900
+Bạn là Wolverine?
+
+25
+00:24:46,900 --> 00:24:50,100
+Và bạn Polaris
+
+26
+00:24:51,500 --> 00:24:53,120
+Bạn nghĩ gì?
+
+27
+00:24:55,200 --> 00:24:56,600
+Tôi nhận được một trong những quyền.
+
+28
+00:24:58,060 --> 00:25:00,340
+Tôi sẽ bắt Magneto
+
+29
+00:25:00,340 --> 00:25:02,820
+Không có kế hoạch
+
+30
+00:25:02,820 --> 00:25:05,740
+Vì vậy, ở nhà
+
+31
+00:25:05,740 --> 00:25:09,620
+Bộ xương của con người sẽ tốt hơn bạn nhiều.
+
+32
+00:25:09,620 --> 00:25:12,280
+Bạn đang làm gì ở đây?
+
+33
+00:25:13,040 --> 00:25:14,120
+Tôi không biết
+
+34
+00:25:14,120 --> 00:25:16,980
+Ông đề nghị tôi đã làm việc quá sức nhưng... (spen đề nghị có liên quan)
+
+35
+00:25:16,980 --> 00:25:19,600
+Một trong những đơn của tôi đã bị từ chối
+
+36
+00:25:19,600 --> 00:25:22,220
+Nhưng tôi có một trí nhớ tốt
+
+37
+00:25:22,220 --> 00:25:25,600
+Chúng tôi có rất nhiều điểm chung
+
+38
+00:25:25,600 --> 00:25:30,000
+Có... chúng tôi có
+
+39
+00:54:39,320 --> 00:54:40,780
+Bạn bè của tôi...
+
+40
+00:54:41,400 --> 00:54:45,780
+Charles Xavier tin rằng có thể duy trì
+hòa bình và hòa bình với mọi người.
+
+41
+00:54:45,780 --> 00:54:49,000
+Nó lan truyền sự tiến hóa gần như sau mỗi sự kiện trong nước.
+
+42
+00:54:49,500 --> 00:54:51,000
+Giống như tôi đã nói (như chúng tôi nói chuyện)
+
+43
+00:54:51,000 --> 00:54:55,500
+Người bạn cũ của tôi đã quyết định tham gia cùng chúng tôi
+
+44
+00:54:55,500 --> 00:54:57,960
+... nó là Rouge
+
+45
+00:54:58,540 --> 00:55:00,680
+Bất kể điều gì xảy ra
+
+46
+00:55:00,680 --> 00:55:04,540
+Tôi có kế hoạch lớn cho đột biến nhỏ này
+
+47
+00:55:08,560 --> 00:55:10,900
+Đây là thời điểm bạn được huấn luyện X-Men
+
+48
+00:55:10,900 --> 00:55:13,840
+Bạn phải phục hồi Rogue từ tay Magneto
+
+49
+00:55:13,840 --> 00:55:15,840
+Chúng tôi không biết kế hoạch cho cô ấy
+
+50
+00:55:15,840 --> 00:55:18,040
+Nhưng anh ta sẽ tấn công con người.
+
+51
+00:55:18,040 --> 00:55:20,040
+Rogue có một chìa khóa
+
+52
+00:55:20,980 --> 00:55:24,620
+Hòa bình với mọi người có sẵn, nhưng đầu tiên...
+(hòa bình với nhân loại có thể đạt được lúc đầu)
+
+53
+00:55:24,620 --> 00:55:27,500
+Bạn phải dừng Magneto
+
+54
+00:55:36,540 --> 00:55:38,640
+Cảm ơn bạn đã đến, Thượng nghị sĩ Kelly
+
+55
+00:55:38,640 --> 00:55:41,840
+Bạn rất quan trọng với tôi dr. Trask (bạn rất quan trọng với tôi dr. Trask}
+
+56
+00:55:41,840 --> 00:55:44,020
+Tôi muốn thấy sự tiến bộ của tôi
+
+57
+00:55:44,020 --> 00:55:46,440
+Như bạn đã nói, tôi đã sử dụng các tiêu chuẩn cao (tôi đã nói tiêu chuẩn cao cho bản thân mình)
+
+58
+00:55:46,440 --> 00:55:47,600
+Và người dân của tôi
+
+59
+00:55:47,600 --> 00:55:49,600
+Bạn sẽ không phải thất vọng. (Bạn sẽ không phải thất vọng)
+
+60
+00:55:49,600 --> 00:55:50,840
+Tôi hy vọng
+
+61
+00:55:50,840 --> 00:55:55,040
+Như bạn biết, các đột biến cấp 4 đe doạ sự tuyệt chủng của loài người. (Như bạn biết, tôi cảm thấy những con đột biến đang đe dọa sự tuyệt chủng của loài người)
+
+62
+00:55:55,520 --> 00:55:57,960
+Tôi tin rằng công việc của tôi sẽ phản ánh vấn đề này
+
+63
+00:55:57,960 --> 00:56:00,600
+Tôi đã bỏ rất nhiều tiền vào dự án này
+
+64
+00:56:00,600 --> 00:56:02,060
+Tôi cũng hy vọng
+
+65
+00:56:02,060 --> 00:56:04,180
+Tiền của bạn đã không bị lãng phí tiền của bạn đã không bị lãng phí
+
+66
+00:56:04,520 --> 00:56:05,700
+Thượng nghị sĩ Kelly
+
+67
+00:56:05,700 --> 00:56:09,200
+Tôi sẽ chỉ cho bạn giải pháp cuối cùng cho vấn đề với những kẻ đột nhập
+
+68
+00:56:22,500 --> 00:56:24,760
+END
+
+69
+00:56:24,880 --> 00:56:28,720
+Một phiên dịch điều
+trần: Świerszczyk69:.
+
+70
+00:56:28,940 --> 00:56:31,700
+với sự tham gia:
+

@@ -1,0 +1,1468 @@
+﻿14
+00:01:34,140 --> 00:01:38,040
+SUPERGIRL XXX: PARODY AN AXEL
+
+15
+00:01:39,820 --> 00:01:41,680
+Hiển thị bản thân Brainiac! {Msgid "Hiển thị bản thân Brainiac!"}
+
+16
+00:01:48,060 --> 00:01:50,220
+Đạo diễn: Axel Braun
+
+17
+00:01:54,000 --> 00:01:56,080
+Ngoại tình của Mặt trời đỏ ... {"" Ngoại tình của Mặt trời đỏ (Ở mái nhà khác mặt trời đỏ.) "}
+
+18
+00:01:58,640 --> 00:02:01,360
+Sự sống sót của bạn không được biết đến với tôi. {Msgid "Sự sống sót của bạn không được biết đến với tôi."}
+
+19
+00:02:01,700 --> 00:02:04,940
+Điều này rất khan hiếm và xứng đáng với sự chú ý của tôi. {Msgid "Nhưng hiếm nhất và đáng được chú ý."}
+
+20
+00:02:05,020 --> 00:02:07,320
+Tôi đề nghị,
+cho sự chú ý của bạn ở nơi khác ... {"" Tôi đề nghị bạn chuyển sự chú ý của mình sang nơi khác ... "}
+
+21
+00:02:07,460 --> 00:02:08,700
+... và tàu của bạn. {"" Và tàu của bạn. "}
+
+22
+00:02:08,920 --> 00:02:12,120
+Trái đất sẽ không phải là ngôi nhà từ thiện tiếp theo của bạn
+mà bạn sẽ để lại phía sau. {"" Trái đất không phải là số trong số các chìa khóa nhà bị cháy còn sót lại "
+
+23
+00:02:13,020 --> 00:02:17,340
+Tôi có thể gây nguy hiểm cho bạn
+nếu tôi bắt đầu năng lượng tia đỏ. {"" Tôi có thể phơi bày cho bạn, với Tia nếu màu đỏ trần trụi của bạn bắt đầu phát điện. "}
+
+24
+00:02:17,820 --> 00:02:18,640
+Bạn có thể ... {"" Bạn có thể ... "}
+
+25
+00:02:18,800 --> 00:02:22,600
+... nhưng sau đó tôi sẽ chiến đấu với bạn,
+ cho đến hơi thở cuối cùng của tôi. {"" "Nhưng tôi vẫn chiến đấu với bạn bằng mọi hơi thở của cuộc sống mà tôi đã để lại."}
+
+26
+00:02:22,660 --> 00:02:26,340
+Bạn đang ở trong chính mình.
+Chỉ cho tôi rãnh của bạn kể từ khi bạn đang ở xung quanh. {"" Bạn là bản ngã, hãy thể hiện sự thất vọng của bạn, đến gần. "}
+
+27
+00:02:26,520 --> 00:02:27,040
+Hmm.
+
+28
+00:02:27,200 --> 00:02:29,320
+Và ai đang nói về việc ở trong bản thân ở đây? {"" Hãy xem ai đang nói về bản ngã. "}
+
+29
+00:02:29,380 --> 00:02:31,500
+Tôi không có xu hướng nói dối ... {"" Tôi không có trách nhiệm nói dối như vậy. "}
+
+30
+00:02:31,900 --> 00:02:34,860
+... nhưng tôi là một ví dụ về trí tuệ thuần túy. {"" Tôi sẽ là và trí tuệ thuần túy. "}
+
+31
+00:02:35,080 --> 00:02:38,140
+Tôi không thể hỏi
+ câu chuyện của bạn trong Vũ trụ hỗn loạn. {"" Tôi không thể hỏi đây là lịch sử Vũ trụ hỗn loạn của bạn "}
+
+32
+00:02:38,160 --> 00:02:41,140
+Tôi chỉ lấy quà lưu niệm từ căn hộ,
+để viết. {"" Chỉ lấy nhà lưu niệm, để ghi lại. "}
+
+33
+00:02:41,540 --> 00:02:44,940
+Tôi không có ... một cái tôi. {"" Không có cái tôi ... trong tôi. "}
+
+34
+00:02:45,120 --> 00:02:46,720
+Đừng tự tâng bốc mình! {Msgid "Đừng tự tâng bốc mình!"}
+
+35
+00:02:46,720 --> 00:02:48,140
+Tôi biết bạn là ai. {Msgid "Tôi biết bạn là ai."}
+
+36
+00:02:48,140 --> 00:02:50,140
+Bạn chỉ bắt đầu với người đàn ông ... {"" Bạn bắt đầu chỉ là một người đàn ông .... "}
+
+37
+00:02:50,320 --> 00:02:53,020
+... bóng tối thực sự từ hành tinh Colu. {"" Bóng tối thực sự từ hành tinh Colu "}
+
+38
+00:02:53,020 --> 00:02:55,020
+Bóng tối? {Msgid "Bóng tối?"}
+
+39
+00:02:55,500 --> 00:02:58,520
+Tên này chưa được gán cho tôi,
+quá lâu. {"" Tên đó không được đặt hàng đã lâu. "}
+
+40
+00:02:58,620 --> 00:02:59,140
+ha
+
+41
+00:02:59,860 --> 00:03:00,700
+Tại sao? {Msgid "Tại sao?"}
+
+42
+00:03:01,080 --> 00:03:03,020
+Nó nhắc nhở bạn quá nhiều ... {"" Quá nhiều lời nhắc nhở rằng ... "}
+
+43
+00:03:03,140 --> 00:03:05,960
+... mà bạn đã để lại trong tất cả các trang này ... {"" dưới tất cả các phụ tùng này tại sao là ... "}
+
+44
+00:03:05,960 --> 00:03:09,000
+... không có gì
+ngoại trừ máu và xương. {"" .... bạn chẳng có gì ngoài máu thịt. "}
+
+45
+00:03:15,320 --> 00:03:16,980
+Đúng vậy
+Quên {"" Đúng vậy, tôi quên mất. "}
+
+46
+00:03:18,700 --> 00:03:20,220
+Chúng ta sẽ thấy! {Msgid "Sees!"}
+
+47
+00:03:20,480 --> 00:03:25,060
+Tôi không thể xử lý thông tin,
+thay đổi đột ngột trong dòng plasma của tôi. {"" Tôi không thể xử lý, sự thay đổi đột ngột trong dòng plasma của tôi. "}
+
+48
+00:03:46,540 --> 00:03:48,500
+Nó không tốt
+ Tôi đang đến. {"" Thật tệ, tôi đang đến. "}
+
+49
+00:17:34,160 --> 00:17:35,640
+Không sao đâu Kara. {Msgid "Không sao đâu Cara."}
+
+50
+00:17:36,080 --> 00:17:37,640
+Đó chỉ là một giấc mơ tồi tệ. {Msgid "Chỉ cần gặp ác mộng."}
+
+51
+00:17:39,400 --> 00:17:40,900
+Trái đất có an toàn không? {Msgid "Trái đất an toàn?"}
+
+52
+00:17:41,360 --> 00:17:42,400
+Chúng ta không có nguy cơ bị xâm lược? {Msgid "Không có xâm lược?"}
+
+53
+00:17:42,700 --> 00:17:44,160
+Không phải hôm nay. {Msgid "Không phải hôm nay"}
+
+54
+00:17:44,640 --> 00:17:46,160
+Không phải khi tôi là Tổng thống. {Msgid "Không khi tôi là tổng thống."}
+
+55
+00:17:50,460 --> 00:17:52,260
+Phần lớn là nhờ bạn. {Msgid "Phần lớn là nhờ bạn."}
+
+56
+00:17:53,860 --> 00:17:54,920
+Hồ.
+
+57
+00:17:55,060 --> 00:17:56,160
+Phải. {Msgid "Phải."}
+
+58
+00:17:57,580 --> 00:17:59,400
+Tôi là vũ khí bí mật của bạn. {Msgid "Tôi là vũ khí bí mật của bạn"}
+
+59
+00:18:09,160 --> 00:18:10,980
+Hãy nói về giấc mơ của bạn. {Msgid "Hãy nói về giấc mơ của bạn."}
+
+60
+00:18:11,240 --> 00:18:11,880
+ho
+
+61
+00:18:12,040 --> 00:18:13,880
+Anh ấy thực sự ngu ngốc. {Msgid "Thật là ngu ngốc."}
+
+62
+00:18:13,880 --> 00:18:15,880
+Brainiac đã chạm vào tôi. {Msgid "Chúng tôi sẽ chạm vào Brainiac."}
+
+63
+00:18:15,940 --> 00:18:18,240
+Anh ta muốn chinh phục và phá hủy toàn bộ Thành phố Argo. {Msgid "Tôi đã chinh phục và phá hủy Thành phố Argo."}
+
+64
+00:18:20,560 --> 00:18:21,700
+Quê hương của bạn. {"" Quê hương của bạn "}
+
+65
+00:18:22,480 --> 00:18:24,720
+Vâng,
+Anh lừa dối tôi và bỏ tôi. {"" Vâng, thề cách lừa tôi, đặt tôi ở đây. "}
+
+66
+00:18:29,200 --> 00:18:30,280
+Hãy nhìn tôi {"" Hãy nhìn tôi. "}
+
+67
+00:18:32,620 --> 00:18:34,260
+Bạn sẽ ở bên cạnh tôi chứ? {Msgid "Do me no next?"}
+
+68
+00:18:36,440 --> 00:18:38,520
+Quay trở lại giường và tôi sẽ chứng minh điều đó với bạn. {Msgid "Quay trở lại giường ngay bây giờ để chứng minh điều đó với bạn .."}
+
+69
+00:18:54,720 --> 00:18:56,100
+Tôi không thể {"Tôi không thể"}
+
+70
+00:18:56,260 --> 00:18:57,880
+Tôi cần phải trước khi mặt trời mọc .... {"" Thật là phải mặt trời mọc. "}
+
+71
+00:18:58,100 --> 00:18:59,880
+... một lần nữa quay trở lại ... {"" Tôi phải tạo lại sự xuất hiện của ... "}
+
+72
+00:18:59,880 --> 00:19:01,360
+... cuộc sống bình thường. {"" ... Cuộc sống dân sự. "}
+
+73
+00:19:01,480 --> 00:19:03,800
+Vì vậy tôi có thể chăm sóc nó
+Các vấn đề của nhà nước? {"" Tôi đoán tôi có thể, sau đó làm các vấn đề của nhà nước? "}
+
+74
+00:19:04,680 --> 00:19:06,040
+Đó là những gì bạn làm, thưa Tổng thống. {Msgid "Bạn làm điều đó thưa ngài Tổng thống."}
+
+75
+00:19:23,260 --> 00:19:24,560
+Có gì đó không đúng. {Msgid "Có gì đó không ổn"}
+
+76
+00:19:35,280 --> 00:19:36,360
+Bạn biết những gì ... {"" Bạn biết những gì ... "}
+
+77
+00:19:36,400 --> 00:19:38,320
+Tôi không thể tin
+rằng ngai vàng của tôi đã nhận được .... {"" Tôi không thể tin được, có thể giành lấy ngai vàng của mình. "}
+
+78
+00:19:38,360 --> 00:19:39,000
+... Fluff. {"" "Fluff"}
+
+79
+00:19:39,260 --> 00:19:42,120
+Dành riêng cho Joker ở Belle Reve. {Msgid "Trao độc quyền cho Joker ở Belle Reve."}
+
+80
+00:19:44,200 --> 00:19:46,040
+Có hòa bình tốt, Jimmy. {Msgid "Không phải là hòa bình tốt lắng nghe, Oh Jimmy."}
+
+81
+00:19:46,040 --> 00:19:47,340
+Đây là một sự công nhận xứng đáng. {Msgid "Sự công nhận xứng đáng."}
+
+82
+00:19:47,340 --> 00:19:50,580
+Không, Joker nên sợ hãi
+cho những vụ giết chóc này. {"" Không, Joker nên sợ, vì đã giết hầu hết. "}
+
+83
+00:19:50,600 --> 00:19:53,200
+Một số không thể
+buôn chuyện chỉ để bỏ qua ... {"" không đưa ra một số nhưng đó là tin đồn bạn đến. "}
+
+84
+00:19:53,400 --> 00:19:55,460
+Ngay cả khi đó là Superman,
+nhưng tôi không nghĩ thế. {"" Ngay cả khi Superman không nghĩ vậy. "}
+
+85
+00:19:57,060 --> 00:19:57,740
+Ai? {Msgid "Ai?"}
+
+86
+00:20:00,540 --> 00:20:02,940
+Chờ ...
+Bạn đã hỏi về cái lớn này có màu xanh chưa? {Msgid "Đợi .... Bạn có trả lời màu xanh lớn không?"}
+
+87
+00:20:06,480 --> 00:20:07,420
+Dù sao đi nữa ... {"" Dù sao ... "}
+
+88
+00:20:07,420 --> 00:20:10,200
+Làm thế nào mà hành trình đi đến đó,
+ Hành tinh hàng ngày là tất cả về nó {"" Làm thế nào hành trình đi đủ, âm thanh bạn ngày tất cả Hành tinh hàng ngày. "}
+
+89
+00:20:10,360 --> 00:20:17,640
+Tôi biết, tôi nhớ nó ngày hôm qua, cô ấy cần tôi vì trái tim rách nát, không béo, không đường, không điện thoại ... {" , không có điện thoại ... "}
+
+90
+00:20:18,200 --> 00:20:20,240
+Háng của Vanilla là ... {"" Vanilla crotch cô ấy nên có. "}
+
+91
+00:20:20,240 --> 00:20:22,120
+... rắc quế ba lần. {Msgid "ba rắc quế"}
+
+92
+00:20:22,480 --> 00:20:23,480
+Tôi không thể ... {"" Tôi không thể "}
+
+93
+00:20:24,520 --> 00:20:26,080
+Mọi thứ vào đúng thời điểm {"Tôi luôn luôn đúng lúc."}
+
+94
+00:20:26,360 --> 00:20:28,500
+Kara không lãng mạn lắm. "" Cara này không phải là bạn lãng mạn. "}
+
+95
+00:20:28,680 --> 00:20:29,520
+Có {"" Ồ, vâng "}
+
+96
+00:20:29,520 --> 00:20:31,260
+Kara là trợ lý cá nhân của cô ấy {"" Cara là trợ lý cá nhân của bạn. "}
+
+97
+00:20:31,260 --> 00:20:32,600
+Mọi chuyện thế nào? {Msgid "Tôi đã đi vào chưa?"}
+
+98
+00:20:33,160 --> 00:20:35,280
+Tôi không biết, tôi đã không nói chuyện với anh ấy. {Msgid "Tôi không biết anh ấy nói chuyện tốt."}
+
+99
+00:20:35,540 --> 00:20:38,240
+Này bạn biết gì không
+ chúng ta có lẽ nên đề cập đến ... {"" Bạn biết những gì chúng ta có lẽ nên đề cập đến ... "}
+
+100
+00:20:38,240 --> 00:20:41,320
+... Điều tra thương mại,
+điều đó có thể chấm dứt ... ... "Điều tra giao dịch nội gián có thể chấm dứt ..."}
+
+101
+00:20:41,320 --> 00:20:45,200
+... một sứ mệnh và kế hoạch thống trị thế giới tuyệt vời. {"" .... để truyền giáo kế hoạch thống trị thế giới "}
+
+102
+00:20:46,120 --> 00:20:48,580
+Thông tin Mèo luôn hạ cánh trên đôi chân của mình {"" Tin tức của mèo luôn rơi trên chân cô ấy. "}
+
+103
+00:20:49,060 --> 00:20:50,360
+Đừng đề cập đến bất kỳ kế hoạch nào. {Msgid "Không có kế hoạch nói"}
+
+104
+00:20:50,580 --> 00:20:53,100
+Bạn có nghĩa là không có tiền. {Msgid "Ý bạn là không có nghĩa là gì."}
+
+105
+00:20:53,100 --> 00:20:56,520
+Chắc chắn đường đến phòng ngủ của cô ấy ở trên lầu. {Msgid "yeah. Cách ngủ lên đỉnh và cô ấy."}
+
+106
+00:20:58,300 --> 00:21:02,080
+Nhân tiện, có lẽ tôi sẽ đi lên lầu. {"Nhân tiện, có thể lên cabin tôi đã bay"}
+
+107
+00:21:02,080 --> 00:21:03,540
+Bạn gục ngã, Luis {"Luis mùa thu."}
+
+108
+00:21:03,680 --> 00:21:04,660
+{Vâng ... "Vâng ..."}
+
+109
+00:21:04,660 --> 00:21:06,660
+Sẽ rất khó xử {"Điều này sẽ rất khó xử"}
+
+110
+00:21:15,140 --> 00:21:15,940
+{Làm ơn ... "Vâng ..."}
+
+111
+00:21:15,940 --> 00:21:18,280
+Đây là tương lai dang dở của tôi. {"Có quá khứ không hoàn hảo của tôi."}
+
+112
+00:21:18,820 --> 00:21:20,280
+Chào mừng bạn ... { "Chào mừng"}
+
+113
+00:21:20,280 --> 00:21:21,640
+Ở nhà của tương lai ... {"Đến ngôi nhà tương lai ..."}
+
+114
+00:21:21,640 --> 00:21:23,760
+... CatCo International. {"... Của CatCo International."}
+
+115
+00:21:23,760 --> 00:21:25,340
+Rất vui được gặp bạn Mèo. {"Rất vui được gặp bạn Mèo."}
+
+116
+00:21:28,200 --> 00:21:29,500
+Bạn cũng vậy {"Và bạn"}
+
+117
+00:21:30,580 --> 00:21:35,500
+Tôi tưởng tượng hai bạn theo đuổi tôi vì những đánh giá tuyệt vời về những thay đổi, và ở đây tôi ... {"hãy tưởng tượng hai bạn theo đuổi tôi xung quanh những đánh giá tuyệt vời nhưng thay đổi, bạn đã làm tôi"}
+
+118
+00:21:35,800 --> 00:21:36,640
+Tôi biết, được thôi {"Tôi biết đúng."}
+
+119
+00:21:36,640 --> 00:21:39,820
+Nhân tiện, bạn trông Cat tuyệt vời,
+Điều đó có nghĩa là ... {"Bằng cách bạn trông Cat tuyệt vời. Ý tôi là ..."}
+
+120
+00:21:39,820 --> 00:21:43,040
+Chúng ta vẫn già đi và bằng cách nào đó vẫn như cũ {"chúng ta cứ già đi và bằng cách nào đó bạn vẫn như cũ."}
+
+121
+00:21:43,500 --> 00:21:46,900
+Ôi chao
+bạn như mọi khi với giường cũi của bạn. {"Oh Jimmy, luôn luôn với giường cũi của bạn."}
+
+122
+00:21:47,800 --> 00:21:49,420
+Bạn có khỏe không Clark? {"Bạn có khỏe không Clark?"}
+
+123
+00:21:49,640 --> 00:21:50,900
+tốt,
+Cảm ơn bạn {"Tôi khỏe, cảm ơn bạn."}
+
+124
+00:21:51,760 --> 00:21:52,900
+Và xin chúc mừng {"Và chúc mừng."}
+
+125
+00:21:54,340 --> 00:21:55,700
+Hình phạt!
+
+126
+00:21:56,340 --> 00:21:58,480
+Mang cho chúng tôi đồ uống. {"Nhận đơn đặt hàng đồ uống của bạn!"}
+
+127
+00:22:01,580 --> 00:22:03,080
+Chào các bạn! {"Này các bạn"}
+
+128
+00:22:03,700 --> 00:22:05,080
+trừng trị
+
+129
+00:22:06,720 --> 00:22:07,540
+Nhân tiện ... {"Nhân tiện ..."}
+
+130
+00:22:07,540 --> 00:22:09,540
+Tôi thích nhận được giỏ. {"Yêu người cản trở."}
+
+131
+00:22:10,120 --> 00:22:12,200
+Hi!
+Một thời gian đã trôi qua. {"Xin chào!
+ Đã được một lúc rồi. "}
+
+132
+00:22:12,200 --> 00:22:16,600
+Bạn biết đấy
+ Con đường của tôi bây giờ đang bay thực hành {"Chà, bạn biết đấy
+ Con đường của tôi có thực tập bay vào "}
+
+133
+00:22:17,560 --> 00:22:20,240
+Tôi cần nói chuyện với bạn. {"Xin chào, tôi cần nói chuyện với bạn."}
+
+134
+00:22:20,240 --> 00:22:21,980
+Nhưng ở nơi riêng tư. {"Tôi sắp biết, một mình."}
+
+135
+00:22:22,480 --> 00:22:25,020
+Có chuyện gì xảy ra ở Smallville? {"Có chuyện gì xảy ra ở Smallville?"}
+
+136
+00:22:25,020 --> 00:22:26,660
+Gì?
+Không! {"Ồ sao?
+Không! "}
+
+137
+00:22:26,660 --> 00:22:28,000
+Nhà của tôi ... {"Nhà của tôi ..."}
+
+138
+00:22:28,000 --> 00:22:30,000
+Gần đây tôi có một giấc mơ như vậy ... {"Tôi có giấc mơ bị mất trong ..."}
+
+139
+00:22:30,000 --> 00:22:32,880
+Và chỉ
+dường như quá thật. {"Tôi chỉ, dường như hơi quá thật ..."}
+
+140
+00:22:32,880 --> 00:22:37,820
+Một cái gì đó ... hoặc ai đó không an toàn gần Trái đất.
+Tôi muốn bạn kiểm tra nó. {"... Giống như một thứ gì đó ... Trái đất có người nguy hiểm đang ở gần đó.
+Tôi muốn bạn điều tra "}
+
+141
+00:22:40,040 --> 00:22:42,860
+Điều đó xảy ra trong một giấc mơ. {"Dựa trên công cụ của một giấc mơ"}
+
+142
+00:22:43,580 --> 00:22:45,720
+Tôi xin lỗi Kara {"Tôi xin lỗi Cara"}
+
+143
+00:22:45,720 --> 00:22:48,600
+Tôi cần một cái gì đó
+ nhiều hơn thế. {"Tôi sẽ cần một cái gì đó thường xuyên hơn thế."}
+
+144
+00:22:48,900 --> 00:22:51,160
+Tôi không thể tìm kiếm và chuẩn bị
+để đuổi theo ngỗng. {"Chuẩn bị là tôi không thể tìm thấy cái giếng, con ngỗng đuổi theo."}
+
+145
+00:22:51,160 --> 00:22:53,160
+Sẵn sàng chưa? {"Chuẩn bị?"}
+
+146
+00:22:54,120 --> 00:22:55,280
+trừng trị
+
+147
+00:22:57,740 --> 00:23:00,640
+Tôi sẽ nói với bạn rất cẩn thận bây giờ
+ Tôi nhớ bạn. "Thực sự cẩn thận nói lại bây giờ
+Tôi đã nhớ bạn. "}
+
+148
+00:23:00,880 --> 00:23:01,940
+Có { "Ừ"}
+
+149
+00:23:07,720 --> 00:23:11,140
+Hình phạt thân yêu của tôi
+bạn có thể chuẩn bị phần còn lại của khoản thanh toán cho buổi chiều không? {"Cara thân mến, phần còn lại bạn có thể thanh toán cho tôi nếu chiều không."}
+
+150
+00:23:11,140 --> 00:23:14,440
+Vâng mèo
+Tạm biệt Jimmy ... Clark {"Và tôi Cat .... tạm biệt Jimmy ... Clark."}
+
+151
+00:23:14,780 --> 00:23:15,840
+Cảm ơn bạn {"Cảm ơn"}
+
+152
+00:23:17,620 --> 00:23:19,040
+Vậy ... {"Vậy ..."}
+
+153
+00:23:19,360 --> 00:23:20,820
+Thời gian để bắt đầu chương trình? {"Chương trình là thời gian?"}
+
+154
+00:23:20,820 --> 00:23:22,340
+Bạn đang nói rằng chúng tôi có anh ta? {"Ý bạn là chúng tôi có nó"}
+
+155
+00:23:23,200 --> 00:23:25,140
+Chúng ta hãy đến với cuộc truy đuổi của mèo {"Chúng ta hãy đến với The Chase Cat"}
+
+156
+00:23:25,140 --> 00:23:26,460
+The Joker trên toàn bộ góc nhìn {"The Joker all on The View."}
+
+157
+00:23:26,940 --> 00:23:28,880
+Làm thế nào và tại sao? {"Tại sao và như thế nào?"}
+
+158
+00:23:28,880 --> 00:23:31,420
+Ngay cả Batman cũng không thể khám phá ra nó. {"Ngay cả Batman cũng có thể mở nó ra."}
+
+159
+00:23:32,600 --> 00:23:33,420
+{Vâng ... "Vâng ..."}
+
+160
+00:23:34,040 --> 00:23:36,460
+Thật không dễ dàng gì. {"Không thể nào, tôi đã dễ dàng."}
+
+161
+00:23:37,020 --> 00:23:38,080
+Luis
+
+162
+00:23:39,040 --> 00:23:40,080
+Ý tôi là ... {"Ý tôi là ..."}
+
+163
+00:23:40,080 --> 00:23:43,100
+Ngay cả thông qua cuộc thi này,
+chúng ta có thể là bạn bè. {"Ngay cả với sự ganh đua đó, chúng ta vẫn là bạn bè."}
+
+164
+00:23:43,400 --> 00:23:45,100
+Và tôi với anh ta. {"Và tôi ra anh ta"}
+
+165
+00:23:46,120 --> 00:23:48,900
+Và làm thế nào ...
+Chà ... {"Bây giờ thì thế nào.
+Vâng ... "}
+
+166
+00:23:49,360 --> 00:23:56,160
+Tôi chỉ đưa cho anh ấy những thứ tốt nhất của tôi và sau đó sử dụng một số thuyết phục báo chí của tôi.
+
+167
+00:23:57,380 --> 00:23:59,160
+Ý bạn là ... {"Ý bạn là ..."}
+
+168
+00:24:02,400 --> 00:24:07,100
+Sử dụng chiết xuất fermonic này,
+mà Star Labs đã làm cho bạn. {"Sử dụng phương pháp trích xuất hài hòa, chúng tôi đã tạo cho bạn một Phòng thí nghiệm Star."}
+
+169
+00:24:07,800 --> 00:24:10,140
+Bạn đã lấy nó ở đâu? {"Làm thế nào bạn có được nó?"}
+
+170
+00:24:10,440 --> 00:24:12,960
+Bạn không có địa chỉ liên lạc Cat duy nhất ở đó. {"Bạn không phải là người duy nhất trong danh bạ Cat"}
+
+171
+00:24:14,160 --> 00:24:16,640
+Bạn tốt Kent {"Bạn tốt Kents."}
+
+172
+00:24:17,260 --> 00:24:18,460
+Chờ ... { "Chờ."}
+
+173
+00:24:18,720 --> 00:24:20,800
+Bạn đã làm một lọ thuốc tình yêu chưa? {"Bạn đã biến nó thành một lọ thuốc tình yêu?"}
+
+174
+00:24:20,800 --> 00:24:22,360
+Dành cho Joker? {"Dành cho Joker?"}
+
+175
+00:24:22,720 --> 00:24:24,360
+Nó hoạt động {"Nó hoạt động"}
+
+176
+00:24:24,600 --> 00:24:26,900
+Bạn biết đấy, tất cả những gì bạn cần là một số trí thông minh ... {"Bạn biết đấy, tôi ít lây lan (spits)"}
+
+177
+00:24:26,900 --> 00:24:28,600
+... cơ thể nóng bỏng ... {"Một chút thân nhiệt"}
+
+178
+00:24:28,600 --> 00:24:30,860
+... và sau đó tất cả mọi người ... {"Và bất cứ ai"}
+
+179
+00:24:31,040 --> 00:24:33,880
+.... kẻ thái nhân cách vĩ đại và mạnh mẽ ... {"Bạn có kẻ tâm thần vĩ đại và khó tính ..."}
+
+180
+00:24:34,160 --> 00:24:35,300
+... là của tôi. {"... là chúng tôi."}
+
+181
+00:24:35,300 --> 00:24:37,980
+Bạn là gì
+Thật sao, đó là? {"Thôi nào.
+Thực sự, thực sự cái này? "}
+
+182
+00:24:37,980 --> 00:24:39,340
+Tôi có thể không? {"Tôi có thể ..."}
+
+183
+00:24:39,880 --> 00:24:43,180
+Không chính thức, tất nhiên. {"... Tắt hồ sơ của khóa học"}
+
+184
+00:24:57,400 --> 00:24:59,020
+Đây là ... {"Đã là tôi ..."}
+
+185
+00:24:59,020 --> 00:25:01,020
+... mãnh liệt,
+nhưng ... {"... đó là chuyên sâu nhưng .."}
+
+186
+00:25:01,720 --> 00:25:03,460
+Không có gì ... { "Đủ ... cũng ..."}
+
+187
+00:25:03,460 --> 00:25:05,460
+Nó không hoạt động với tôi. {"Không dành cho tôi."}
+
+188
+00:25:07,900 --> 00:25:10,220
+Đây có phải là quá đòi hỏi cho bạn? {"Điều này quá cần cho bạn?"}
+
+189
+00:25:10,920 --> 00:25:12,920
+Chúa ơi! {"Ôi Chúa ơi"}
+
+190
+00:25:34,760 --> 00:25:36,660
+Nó có hoạt động với bạn không? {"Set đã làm gì đó cho bạn?"}
+
+191
+00:25:37,020 --> 00:25:38,300
+Có { "Ừ"}
+
+192
+00:25:38,860 --> 00:25:40,300
+Chắc chắn là có. {"Chắc chắn là có."}
+
+193
+00:25:52,300 --> 00:25:54,260
+Thật điên rồ. {"Thật điên rồ"}
+
+194
+00:25:54,980 --> 00:25:57,060
+Tôi sẽ cho bạn thấy sự điên rồ. {"Show you crazy"}
+
+195
+00:26:04,860 --> 00:26:06,500
+Vâng, hãy cho tôi biết ý của tôi. {"Yeah cho biết ý của bạn."}
+
+196
+00:26:17,680 --> 00:26:20,060
+Ông Dick của bạn đã sẵn sàng cho tôi chưa? {"Bạn có phải là ông gà đó cho tôi không?"}
+
+197
+00:49:01,920 --> 00:49:03,980
+Trời tối nhanh chóng. {"Chà ...
+ Và tối nhanh. "}
+
+198
+00:49:05,720 --> 00:49:08,060
+Cái quái gì thế?! "" Cái quái gì thế? "}
+
+199
+00:49:11,920 --> 00:49:14,040
+Nó trông giống như một con tàu vũ trụ. {"Trông giống như bất kỳ tàu vũ trụ nào."}
+
+200
+00:49:15,980 --> 00:49:17,860
+Siêu nhân ở đâu?! {"Siêu nhân ở đâu!"}
+
+201
+00:49:24,180 --> 00:49:29,900
+Đó là một cuộc khủng hoảng toàn diện đối với Metropoli đã hít một hơi thật sâu sau khi một con tàu ngoài hành tinh treo lơ lửng trong thành phố. {"Đó là cuộc khủng hoảng toàn diện khi hơi thở của Metropolis thấy bạn chờ đợi niềm tin từ con tàu ngoài hành tinh đang có ở thành phố."}
+
+202
+00:49:29,900 --> 00:49:32,780
+Tôi mong đợi từ Tổng thống Luthor
+rằng ông sẽ thực hiện các biện pháp quyết liệt ... {"Tổng thống Luthor dự kiến ​​sẽ quyết liệt quốc gia của chúng ta"}
+
+203
+00:49:32,780 --> 00:49:36,920
+... và Tướng Graves, người sẽ xác nhận sự sẵn sàng tấn công ... {"Và Tướng Graves vì ​​đã sẵn sàng tuyên bố lập trường quân sự, sẵn sàng ra lệnh tấn công."}
+
+204
+00:49:37,980 --> 00:49:41,320
+Anh ta đáng lẽ phải tấn công vào tháng tới. {"Anh ta đáng lẽ phải tấn công thêm một tháng nữa"}
+
+205
+00:49:42,260 --> 00:49:44,780
+Trung Quốc và Anh thậm chí còn chưa có mặt trên diễn đàn. {"Trung Quốc và Anh thậm chí còn chưa có mặt trên tàu."}
+
+206
+00:49:50,140 --> 00:49:55,440
+Làm thế nào chúng ta có thể biết rằng "Ức chế bộ nhớ"
+được đặt vào cổ của Superman ngày hôm qua hoạt động bình thường. {"làm thế nào để chúng ta biết được sự ức chế bộ nhớ mà bạn đặt sau gáy Superman ngày hôm qua nó không hoạt động."}
+
+207
+00:49:57,000 --> 00:49:58,800
+Chúng tôi thậm chí không có thời gian để kiểm tra nó. {"Chúng tôi không có thời gian để kiểm tra nó"}
+
+208
+00:49:59,960 --> 00:50:03,960
+Bộ kích hoạt đặt lại khi trái tim của nó chậm lại tới 50 nhịp mỗi phút. {"Đặt lại kích hoạt khi nhịp tim của nó làm chậm 50 BPM."}
+
+209
+00:50:04,460 --> 00:50:06,720
+Điều gì xảy ra khi anh ấy ngủ. {"Đó là làm, nhịp tim ngủ."}
+
+210
+00:50:07,220 --> 00:50:09,960
+Nó hoạt động rõ ràng
+bởi vì anh ta không ở đó. {"rõ ràng nó hoạt động cho bạn không ở đó"}
+
+211
+00:50:11,360 --> 00:50:14,420
+Nhưng hãy tập trung vào mọi thứ
+mà chúng tôi đã làm với bạn gái của bạn, sếp. "" Nhưng sự tập trung vào việc nghĩ rằng cô gái đó đã làm sếp "}
+
+212
+00:50:14,420 --> 00:50:15,540
+Bạn đã lên kế hoạch gì? {"Đã có kế hoạch."}
+
+213
+00:50:17,680 --> 00:50:19,260
+Có thông tin nào từ Lầu năm góc không? {"Tin tức từ Lầu năm góc?"}
+
+214
+00:50:21,120 --> 00:50:22,680
+Sự tĩnh lặng của siêu nhân. {"Sự tĩnh lặng của siêu nhân"}
+
+215
+00:50:23,640 --> 00:50:24,820
+Thật là nhẹ nhõm. {"Đó là sự giải thoát của bạn."}
+
+216
+00:50:25,520 --> 00:50:26,860
+Tuy nhiên, Supergirl ... {"Tuy nhiên Supergirl ..."}
+
+217
+00:50:27,580 --> 00:50:28,820
+... đó là một câu chuyện hoàn toàn khác. {"... đó là một câu chuyện khác."}
+
+218
+00:50:29,840 --> 00:50:30,820
+Làm thế nào đây? {"Làm thế nào?"}
+
+219
+00:50:32,660 --> 00:50:36,340
+Tất cả năng lượng, thời gian và tài nguyên đã được sử dụng,
+ để kiểm soát nó? {"sau tất cả thời gian năng lượng và tài nguyên được đưa vào để kiểm soát cô ấy?"}
+
+220
+00:50:37,820 --> 00:50:40,020
+Bạn có nhận ra
+ những gì cô ấy biết? {"bạn có nhận ra những gì cô ấy biết không?"}
+
+221
+00:50:40,380 --> 00:50:42,280
+Rằng anh ấy có thể sử dụng ánh sáng. {"Oh cô ấy có thể làm sáng"
+
+222
+00:50:45,740 --> 00:50:48,640
+Cần phải chi nhiều tiền hơn cho nó {"nên tiêu nhiều tiền hơn"}
+
+223
+00:50:50,500 --> 00:50:52,780
+Ông President {"Ngài President"}
+
+224
+00:50:53,680 --> 00:50:55,580
+Trở thành lòng thương xót! {"Giữ lòng thương xót"}
+
+225
+00:51:01,280 --> 00:51:05,300
+Tôi đã nói với bạn đời của tôi gần đây rất lâu. {"Tôi đã nói với bạn đời của tôi rất lâu rồi"}
+
+226
+00:51:05,560 --> 00:51:08,340
+Đối với mọi người, có những nơi đặc biệt như ... {"Đặc biệt về những người đến từ những nơi như ..."}
+
+227
+00:51:08,800 --> 00:51:10,340
+... Vùng leo. {"... Vùng leo."}
+
+228
+00:51:11,440 --> 00:51:13,000
+Bà Moone. {"Cô Moone"}
+
+229
+00:51:15,060 --> 00:51:18,340
+Mùa thu hoàn toàn này
+ là một tham chiếu đến các dịch vụ của bạn. {"thậm chí hoàn thành sự sụp đổ liên quan đến các dịch vụ của bạn."}
+
+230
+00:51:19,400 --> 00:51:20,520
+{Vâng ... "Vâng ..."}
+
+231
+00:51:20,520 --> 00:51:23,800
+Bạn đã chạy một chút về điều của tôi
+bạn đã bảo lưu. {"không có gì một chút va chạm vào thứ của tôi có thể bảo lưu"}
+
+232
+00:51:24,540 --> 00:51:27,240
+Hãy nói về những con số. {"Hãy nói về những con số"}
+
+233
+00:51:28,440 --> 00:51:30,240
+Điều này không có trong hợp đồng, tháng 6 {"Nói không phải là thỏa thuận tháng 6"}
+
+234
+00:51:30,980 --> 00:51:34,960
+Tôi sẽ không đánh người nộp thuế khó chịu,
+khi tôi có một trận chiến phía sau tôi. {"Tôi không đánh gục những người đóng thuế khó chịu, để quay lưng lại với trận chiến."}
+
+235
+00:51:37,540 --> 00:51:40,720
+Bây giờ bạn có lo lắng về người nộp thuế không? {"Bây giờ bạn có quan tâm đến người nộp thuế không?"}
+
+236
+00:51:43,160 --> 00:51:44,760
+Ngoài ... { "Bên cạnh đó ..."}
+
+237
+00:51:45,300 --> 00:51:49,300
+... về sự hy sinh của con người,
+nơi những người quan trọng nằm trong số nạn nhân. {"Sự hy sinh của con người, đây là đặc quyền của nạn nhân."}
+
+238
+00:51:49,300 --> 00:51:51,300
+Lex
+
+239
+00:51:52,040 --> 00:51:53,140
+Có { "Yes"}
+
+240
+00:51:53,480 --> 00:51:56,060
+Tôi nhớ J.F.K.
+nếu đó là những gì bạn muốn nói. {"Tôi nhớ điều JFK"}
+
+241
+00:51:56,900 --> 00:51:59,300
+Nhưng tôi không nghĩ bạn có thể xử lý nó
+Magic Bullet. {"Nhưng bạn không phải là một viên đạn ma thuật"}
+
+242
+00:51:59,300 --> 00:52:02,660
+Và tôi chỉ ôm một cô gái trẻ.
+người yêu tôi. {"Đơn giản là giữ một người phụ nữ trẻ yêu tôi"}
+
+243
+00:52:04,800 --> 00:52:07,140
+Tôi càng gặp bạn ... {"Cô ấy càng hiểu bạn nhiều hơn"}
+
+244
+00:52:07,340 --> 00:52:10,600
+... tôi càng giữ được sự quyến rũ này. {"... Càng khó giữ sự mê hoặc đó"}
+
+245
+00:52:11,860 --> 00:52:14,660
+Ngay cả bản thân Satan cũng sẽ đặt câu hỏi này {"Bản thân Satan sẽ bị thách thức"}
+
+246
+00:52:14,660 --> 00:52:16,660
+Hãy để ông chủ cho tôi đi! {"Hãy để tôi ra khỏi ông chủ"}
+
+247
+00:52:17,100 --> 00:52:18,660
+Kiên nhẫn. { "Kiên nhẫn"}
+
+248
+00:52:20,540 --> 00:52:24,060
+Đây không phải là những chiếc xe có thể được xếp trên bàn,
+Tôi đã thuê bạn. {"Đây không phải là những chiếc xe bạn đặt trên bàn khi tôi thuê bạn"}
+
+249
+00:52:24,620 --> 00:52:28,540
+Tình yêu là sức mạnh mạnh mẽ nhất
+gợi lên {"Tình yêu là thứ mạnh mẽ nhất đến đây là sự gợi cảm"}
+
+250
+00:52:29,140 --> 00:52:30,900
+Mỗi lần nhắc đến cô ấy ... {"Mỗi lần nhắc đến chuyện đó ..."}
+
+251
+00:52:32,680 --> 00:52:36,300
+... rằng đây là điều duy nhất
+không bao giờ theo khóa miễn phí ... {"đó là điều bạn không bao giờ đi cho khóa miễn phí."}
+
+252
+00:52:37,260 --> 00:52:38,360
+{Làm thế nào ... "như ..."}
+
+253
+00:52:38,560 --> 00:52:40,760
+... trái tim tan vỡ của Lois Lane ... {"trái tim của Lois Lane"}
+
+254
+00:52:41,180 --> 00:52:43,340
+... cho Siêu nhân. {"... cho Siêu nhân."}
+
+255
+00:52:44,420 --> 00:52:45,340
+Bây giờ! { "Bây giờ!"}
+
+256
+01:09:56,260 --> 01:09:58,260
+Đã đến lúc bạn rời xa chúng tôi, Mercy {"thời gian để bạn rời khỏi Mercy"}
+
+257
+01:09:59,860 --> 01:10:00,680
+Cái gì? {"Cái gì?"}
+
+258
+01:10:00,920 --> 01:10:01,500
+Không! { "Không!"}
+
+259
+01:10:01,500 --> 01:10:03,020
+Tôi đã nói với bạn rời khỏi chúng tôi. {"Tôi đã nói rời đi"}
+
+260
+01:10:05,700 --> 01:10:07,180
+Thế còn Supergirl? {"Còn Supergirl thì sao?"}
+
+261
+01:10:07,440 --> 01:10:10,020
+Có lẽ đang xếp hàng chờ đợi như mọi người khác. {"Chắc chắn phải chờ xếp hàng như mọi người khác"}
+
+262
+01:10:10,820 --> 01:10:11,480
+Nhưng .. { "nhưng"}
+
+263
+01:10:11,540 --> 01:10:12,420
+Nhận ra! { "Out!"}
+
+264
+01:10:21,720 --> 01:10:25,300
+Tôi nghĩ chúng ta nên tiếp tục cuộc trò chuyện của mình,
+Tháng Sáu thân yêu. {"Tôi nghĩ chúng ta nên tiếp tục cuộc trò chuyện của mình Tôi yêu tháng Sáu"}
+
+265
+01:20:36,680 --> 01:20:39,800
+Tôi đã sử dụng Sonic của tôi
+để triệu tập Superman. {"Tôi sử dụng Sonic của tôi bắt đầu triệu hồi Superman"}
+
+266
+01:20:39,800 --> 01:20:41,260
+Tôi không nghĩ nó xuất hiện. {"Tôi không nghĩ anh ấy sẽ đến"}
+
+267
+01:20:41,400 --> 01:20:45,080
+Tôi đến từ thành phố Argo
+ Tôi đến từ Krypton, giống như anh em họ của tôi. {"Tôi cũng ở Argo City và mỗi người anh em họ Kryptonian của tôi là"}
+
+268
+01:20:45,080 --> 01:20:46,460
+Tôi biết bạn là ai. {"Tôi biết bạn là người như thế nào"}
+
+269
+01:20:46,460 --> 01:20:48,160
+Nhưng bạn không đủ điều kiện. {"Bạn không đủ điều kiện"}
+
+270
+01:20:48,640 --> 01:20:50,620
+Trái đất đang bị bao vây, ông Wayne ... {"Trái đất đang bị bao vây Ông Wayne ..."}
+
+271
+01:20:50,740 --> 01:20:53,260
+... tín hiệu của bạn chỉ đường cho tôi
+ rằng tôi có thể cứu được vô số người! {"bạn ra hiệu cho tôi cách cứu vô số dân thường"}
+
+272
+01:20:53,340 --> 01:20:58,360
+Giải thích cho tôi tại sao hoặc tôi sẽ để lại một lỗ trên trần hang khi tôi quay lại với họ! {"Hoặc giải thích tại sao hoặc tôi để lại một lỗ trên trần hang của bạn trên đường trở về với họ"}
+
+273
+01:20:58,600 --> 01:21:00,400
+Tôi sẽ đảm bảo trước Clark {"chắc chắn trước Clark"}
+
+274
+01:21:00,400 --> 01:21:02,400
+Tôi sẽ cung cấp cho bạn {"tôi cung cấp cho bạn"}
+
+275
+01:21:04,480 --> 01:21:06,000
+Chúng tôi sẽ chăm sóc nó bằng laser {"chúng tôi coi là laser"}
+
+276
+01:21:06,120 --> 01:21:08,380
+Bạn đánh vào trường lực Brainiac. {"Trường lực lượng não Kraken"}
+
+277
+01:21:11,000 --> 01:21:12,880
+Ít nhất, trong vài giây {"ít nhất vài giây"}
+
+278
+01:21:13,380 --> 01:21:17,360
+Nhưng bạn chỉ là con người
+mọi người cần Superman để đánh bại Brainiac. {"nhưng chỉ là con người bạn cần Superman để tiêu diệt Brainiac"}
+
+279
+01:21:17,360 --> 01:21:18,500
+Lần này tôi sẽ làm điều đó {"đó sẽ là tôi ngay bây giờ"}
+
+280
+01:21:19,640 --> 01:21:21,700
+Không chắc chắn về bản thân?! {"Không quá chắc chắn về điều đó?"}
+
+281
+01:21:21,700 --> 01:21:24,140
+Bạn không nghĩ vậy
+ rằng tôi là một thằng ngốc. {"bạn không ngốc nghĩ rằng bạn là"}
+
+282
+01:21:24,600 --> 01:21:27,060
+Cứu tôi khỏi sự giải phóng sức mạnh
+ Hiệp sĩ bóng đêm! {"Hãy cứu tôi Hiệp sĩ bóng đêm quyền lực"}
+
+283
+01:21:27,060 --> 01:21:28,640
+Bạn đã bị tẩy não {"bạn đã bị tẩy não"}
+
+284
+01:21:28,640 --> 01:21:30,900
+Và trong một thời gian rất dài {"và trong một thời gian dài để"}
+
+285
+01:21:31,300 --> 01:21:32,900
+Điều này không vui chút nào. {"Điều đó không vui"}
+
+286
+01:21:36,820 --> 01:21:39,560
+Luther đã làm một loại đặc biệt
+ Trình thao tác hẹp. {"Luther đã làm với một loại trình thao tác hẹp đặc biệt"}
+
+287
+01:21:40,000 --> 01:21:41,560
+Điều này không thể đúng {"không thể đúng và"} ...
+
+288
+01:21:41,820 --> 01:21:43,160
+Tôi yêu Lex. {"Tôi yêu Lex"}
+
+289
+01:21:43,160 --> 01:21:45,160
+Có bằng chứng {"và có bằng chứng của bạn"}
+
+290
+01:21:45,300 --> 01:21:49,180
+Nó giống như anh em họ trung thành của Superman
+ phải lòng kẻ thù tồi tệ nhất của mình? {"Làm thế nào mà anh em họ trung thành của Superman lại yêu kẻ thù tồi tệ nhất của mình"}
+
+291
+01:21:49,920 --> 01:21:51,720
+Tôi chỉ không biết ... {"Tôi không biết chỉ ..."}
+
+292
+01:21:52,480 --> 01:21:53,380
+Nó đã xảy ra ... {"tôi chỉ xảy ra như ..."}
+
+293
+01:21:53,520 --> 01:21:55,380
+Giống như một câu thần chú {"là chính tả"}
+
+294
+01:22:04,100 --> 01:22:05,660
+Tôi cá rằng đây là việc của cô ấy. {"Tiền của tôi là của cô ấy"}
+
+295
+01:22:05,660 --> 01:22:08,180
+Cô ấy đến từ ma thuật. {"cô ấy đi với phù thủy"}
+
+296
+01:22:10,960 --> 01:22:12,980
+Cô ấy có thể có được mọi thứ
+ về chủ đề của tôi? {"bạn có thể, bạn có thể lấy tất cả của tôi không?"}
+
+297
+01:22:13,320 --> 01:22:16,720
+Bạn là người ngoài hành tinh, nếu có cơ hội, cô ấy có thể sử dụng một câu thần chú cho bạn. {"Bạn là người ngoài hành tinh nếu có bất kỳ cơ hội nào bạn có thể đặt phép thuật lên bạn"}
+
+298
+01:22:16,720 --> 01:22:18,880
+Cô ấy là một mục tiêu cụ thể. {"Cô ấy là mục tiêu cụ thể"}
+
+299
+01:22:18,940 --> 01:22:20,660
+Cô ấy thư giãn tôi như trong "Hệ thống sát thủ" {"làm tôi lạnh như hệ thống sát thủ của bạn"}
+
+300
+01:22:21,180 --> 01:22:22,260
+Điều này có nghĩa là gì? {"Có nghĩa là gì?"}
+
+301
+01:22:22,260 --> 01:22:24,260
+Ý tôi là, tôi có thể thử {"có nghĩa là tôi có thể thử?"}
+
+302
+01:22:24,260 --> 01:22:26,260
+Nhưng đây là một rủi ro rất lớn {"nhưng là một rủi ro rất lớn"}
+
+303
+01:22:27,360 --> 01:22:30,140
+Để tự chữa lành
+bạn phải thoát khỏi sức mạnh của Cryptoran. {"bạn phải kiểm tra với một lượng lớn krypton"}
+
+304
+01:22:30,140 --> 01:22:31,640
+Bạn phải trở thành ... {"bạn phải trở thành"}
+
+305
+01:22:31,640 --> 01:22:32,560
+... người đàn ông. { "Nhân"}
+
+306
+01:22:32,560 --> 01:22:34,560
+Dù bạn phải làm gì
+Tôi sẽ làm điều đó! {"Dù làm gì, hãy làm"}
+
+307
+01:22:35,260 --> 01:22:37,660
+Nhưng bạn phải vào trong
+ Brainiac. {"Nhưng narc vào bên trong tàu Brainiac"}
+
+308
+01:22:38,740 --> 01:22:41,040
+Bạn sẽ cần toàn bộ sức mạnh của mình. {"Bạn sẽ cần toàn bộ sức mạnh cho tat"}
+
+309
+01:22:41,040 --> 01:22:42,180
+Ông Bruce {"Ông Bruce"}
+
+310
+01:22:42,400 --> 01:22:45,740
+Ông Fox nói
+Laser "Angel's" đã sẵn sàng. {"Ông Fox nói rằng laser đã sẵn sàng"}
+
+311
+01:22:46,020 --> 01:22:47,180
+Cảm ơn Alfred! {"Cảm ơn Alfred"}
+
+312
+01:22:47,180 --> 01:22:48,520
+{Nhớ ... "Hãy nhớ rằng ..."}
+
+313
+01:22:48,940 --> 01:22:50,840
+Chúng tôi chỉ có một cửa sổ nhỏ. {"Chúng tôi chỉ có một cửa sổ nhỏ"}
+
+314
+01:22:51,080 --> 01:22:53,920
+Sau khi đóng rào chắn chống bay ... {"sau khi rào chắn đóng lại trước khi sử dụng bay"}
+
+315
+01:22:53,920 --> 01:22:55,920
+Tôi biết phải làm gì, Bruce!
+Tôi thả bạn ra! {"Tôi biết Bruce đang làm gì, bị đuổi việc"}
+
+316
+01:22:59,600 --> 01:23:00,860
+Mục tiêu trong {"mục tiêu trong"}
+
+317
+01:23:01,060 --> 01:23:03,700
+Cháy trong 15 giây.
+Đi! {"Cháy, 15 giây đi!"}
+
+318
+01:23:16,480 --> 01:23:19,960
+Tôi đã chờ đợi nó
+thực sự rất lâu, Brainiac {"Tôi đã chờ đợi rất lâu cho Brainiac này"}
+
+319
+01:23:41,780 --> 01:23:44,500
+Bạn có nhiều can đảm hơn tôi mong đợi. {"Tôi đã có nhiều can đảm hơn mong đợi"}
+
+320
+01:23:46,260 --> 01:23:49,900
+Sức mạnh của bạn sẽ trở lại trong vòng 24 giờ. {"Sức mạnh của bạn sẽ trở lại trong vòng 24 giờ"}
+
+321
+01:24:00,940 --> 01:24:03,140
+Sự phản bội chỉ là tạm thời. {"Khiếm khuyết là tức thời"}
+
+322
+01:24:06,120 --> 01:24:08,200
+Bạn có chắc không? {"Bạn có chắc không?"}
+
+323
+01:24:08,880 --> 01:24:10,880
+Bởi vì tôi cảm thấy có gì đó khác biệt. {"Nhưng tôi cảm thấy bạn khác biệt"}
+
+324
+01:48:22,360 --> 01:48:24,600
+Ông Bruce {"Ông Bruce"}
+
+325
+01:48:25,000 --> 01:48:27,540
+Ủy viên Gordon trên đường dây. {"Ủy viên Gordon đang trực tuyến"}
+
+326
+01:48:27,880 --> 01:48:29,540
+Hãy cho chúng tôi một phút, Alfred {"Chỉ phút Alfred"}
+
+327
+01:48:31,320 --> 01:48:33,880
+Tôi nghĩ thành phố này an toàn
+ đã đến lúc tôi biến mất. {"Tôi nghĩ rằng Thành phố an toàn trong thời gian cho phép biến mất"}
+
+328
+01:48:39,040 --> 01:48:40,900
+Giống như sức mạnh của bạn {"và vì thế sức mạnh của bạn"}
+
+329
+01:48:40,900 --> 01:48:42,900
+Cẩn thận. {"Cẩn thận"}
+
+330
+01:48:46,980 --> 01:48:49,120
+Đã đến lúc
+Hãy để tôi nói chuyện với bạn trai của tôi. {"Đã đến lúc nói chuyện với bạn trai của tôi"}
+
+331
+01:48:56,520 --> 01:48:58,860
+Bạn sẽ trả lại tôi chứ? {"Bạn tiếp tôi trở lại?"}
+
+332
+01:48:59,960 --> 01:49:02,260
+Bạn biết đấy
+rằng tôi có thể làm điều đó vào cuối cùng. {"và bạn biết tôi có thể thực hiện mọi cách"}
+
+333
+01:49:02,800 --> 01:49:05,380
+Ra khỏi đây
+cho đến khi tôi gọi lại cho bạn. {"hãy ra khỏi đây cho đến khi tôi gọi lại cho bạn"}
+
+334
+01:49:22,340 --> 01:49:23,200
+Không tệ .. {"tốt đẹp"}
+
+335
+01:49:29,920 --> 01:49:30,780
+Tôi chỉ trừng phạt ... {"Kara và chỉ ..."}
+
+336
+01:49:30,780 --> 01:49:32,780
+Tôi đã phá vỡ sự quyến rũ của Czarownica này {"Phép thuật phù thủy bị phá vỡ"}
+
+337
+01:49:33,520 --> 01:49:35,560
+Bây giờ tôi thấy bạn thực sự là ai. {"Tôi có thể thấy bạn là ai bây giờ"}
+
+338
+01:49:35,560 --> 01:49:37,560
+Tinh thể rõ ràng ... {"tinh thể rõ ràng"}
+
+339
+01:49:45,720 --> 01:49:47,140
+Đúng vậy, Lex {"đúng rồi đấy"}
+
+340
+01:49:47,480 --> 01:49:49,800
+Tôi đã cho sức mạnh của tôi đi
+để giải phóng bạn khỏi bạn {"Tôi đã cho tôi sức mạnh để thoát khỏi bạn"}
+
+341
+01:49:49,980 --> 01:49:53,900
+Tôi sẽ trở thành một người phụ nữ thực sự
+người hiểu những gì có thể đã tràn ngập bạn. {"Tôi trở thành một người phụ nữ thực sự hiểu chỉ cần họ làm có thể chìm"}
+
+342
+01:49:55,120 --> 01:49:56,920
+Bạn đã sử dụng tôi! {"Bạn đã sử dụng tôi!"}
+
+343
+01:49:56,920 --> 01:49:58,180
+Bạn đã lừa tôi! {"Bạn đã lừa tôi"}
+
+344
+01:49:58,180 --> 01:49:59,520
+Bạn đã lừa dối tôi! {"Đã phản bội tôi"}
+
+345
+01:50:00,800 --> 01:50:03,680
+Tôi là một thiên tài vĩ đại, ngài Tổng thống! {"Bạn tôi là thiên tài ngài Tổng thống"}
+
+346
+01:50:03,680 --> 01:50:06,200
+Nhưng bạn
+bạn làm chính xác điều đó ... {"nhưng bạn đã làm và bạn đã làm chính xác"}
+
+347
+01:50:06,200 --> 01:50:08,200
+... giống như một người bình thường, bình thường. {"người đàn ông trung bình làm"}
+
+348
+01:50:11,040 --> 01:50:12,280
+Vậy mà ... {"và chưa"}
+
+349
+01:50:13,560 --> 01:50:14,780
+{Ngay cả ... "Ngay cả"}
+
+350
+01:50:15,220 --> 01:50:17,200
+Mặc dù vậy
+rằng nó không có thật ... {"Thậm chí biết nó không có thật"}
+
+351
+01:50:17,660 --> 01:50:19,960
+Mặc dù vậy
+rằng đó là một câu thần chú {"Thậm chí biết đó là câu thần chú này"}
+
+352
+01:50:24,820 --> 01:50:27,280
+Tôi nghĩ đó là điều làm tổn thương nhiều nhất
+ nó chỉ là một chuyện vặt vãnh ... {"Tôi đoán điều gì làm tổn thương điều nhỏ nhặt nhất"}
+
+353
+01:50:27,820 --> 01:50:29,880
+Nhưng tôi không thể ... {"nhưng không"}
+
+354
+01:50:30,660 --> 01:50:32,540
+Tôi thực sự yêu bạn. {"Thực sự đã yêu bạn"}
+
+355
+01:50:43,000 --> 01:50:44,260
+Tôi xin lỗi Kara {Tôi xin lỗi Kara "}
+
+356
+01:50:50,600 --> 01:50:52,040
+Ja hàng cũng {"Tôi thực sự là"}
+
+357
+01:50:55,040 --> 01:50:57,280
+Đạo diễn:
+Axel Braun
+
